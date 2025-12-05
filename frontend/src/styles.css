@@ -1,0 +1,20 @@
+.kanban-board {
+  display: flex;
+  gap: 20px;
+}
+
+.kanban-column {
+  width: 33%;
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  min-height: 400px;
+}
+
+.follow-card {
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
